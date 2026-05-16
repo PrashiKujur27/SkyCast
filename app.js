@@ -1,12 +1,6 @@
-/* =============================================
-   SKYCAST — Main Application Logic
-   =============================================
-   
-   SETUP: Replace 'YOUR_API_KEY_HERE' with your
-   free API key from https://openweathermap.org/api
-   ============================================= */
 
-const API_KEY = '2ae69a9e83840d6057c270eabdd97123'; // ← Replace this!
+
+const API_KEY = '2ae69a9e83840d6057c270eabdd97123'; 
 const BASE_URL = 'https://api.openweathermap.org/data/2.5';
 const GEO_URL = 'https://api.openweathermap.org/geo/1.0';
 
